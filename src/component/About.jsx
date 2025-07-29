@@ -2,11 +2,11 @@ import { motion } from "framer-motion";
 
 export default function AboutSection() {
   const skills = [
-    { name: 'HTML/CSS', percentage: 85 },
-    { name: 'Tailwind', percentage: 85 },
-    { name: 'JavaScript', percentage: 70 },
-    { name: 'ReactJS', percentage: 70 },
-    { name: 'Figma', percentage: 75 }
+    { name: 'HTML/CSS', percentage: 75 },
+    { name: 'Tailwind', percentage: 75 },
+    { name: 'JavaScript', percentage: 50 },
+    { name: 'ReactJS', percentage: 50 },
+    { name: 'Figma', percentage: 60 }
   ];
 
   return (
