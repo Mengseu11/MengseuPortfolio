@@ -35,9 +35,9 @@ export default function(){
         </div>
 
         {/* Image */}
-        <div className="relative w-64 h-64 md:w-80 md:h-80 animate-fade-in">
+        <div className="relative w-64 h-64 md:w-80 md:h-80 animate-fade-in ">
           <div className="absolute inset-0 bg-[#1f1f1f] rounded-full"></div>
-          <img src="/images/profile.jpg" alt="profile"  className="relative z-10 w-full h-full object-cover rounded-full" />
+          <img src="public\images\profile.jpg" alt="profile"  className="relative z-10 w-full h-full object-cover rounded-full" />
         </div>
       </section>
 
