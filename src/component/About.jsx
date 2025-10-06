@@ -4,8 +4,9 @@ export default function AboutSection() {
   const skills = [
     { name: 'HTML/CSS', percentage: 75 },
     { name: 'Tailwind', percentage: 75 },
-    { name: 'JavaScript', percentage: 50 },
-    { name: 'ReactJS', percentage: 50 },
+    { name: 'Bootstrap', percentage: 75 },
+    { name: 'JavaScript', percentage: 60 },
+    { name: 'ReactJS', percentage: 60 },
     { name: 'Figma', percentage: 60 }
   ];
 
